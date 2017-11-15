@@ -12,7 +12,7 @@ module.exports = function(grunt) {
             dist: {
                 sourceMap: true,
                 files: {
-                    'build/css/styles.css': 'src/scss/app.scss'
+                    'css/styles.css': 'src/scss/app.scss'
                 }
             }
         },
@@ -24,7 +24,7 @@ module.exports = function(grunt) {
                         expand: true,
                         cwd: 'src',
                         src: ['img/**'],
-                        dest: 'build/'
+                        dest: ''
                     }
                 ]
             },
@@ -49,7 +49,7 @@ module.exports = function(grunt) {
                     template: 'src/html/index.mustache'
                 },
                 files: {
-                    'build/index.html': 'src/config/index.json'
+                    'index.html': 'src/config/index.json'
                 }
             },
             portfolio: {
@@ -57,7 +57,7 @@ module.exports = function(grunt) {
                     template: 'src/html/portfolio_item.mustache'
                 },
                 files: {
-                    'build/portfolio/rockstar.html': 'src/config/rockstar.json'
+                    'portfolio/rockstar.html': 'src/config/rockstar.json'
                 }
             }
         },
