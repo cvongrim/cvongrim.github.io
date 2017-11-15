@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37e1ab6-d343-4c48-b445-e82f56f6cedc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Cityscape/Cityscape-full.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Cityscape/Cityscape-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Generic/Generic-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Generic/Generic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Klipsch/klipsch-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Klipsch/klipsch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Napa/napa-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Napa/napa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Paintballer/Paintballer-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Paintballer/Paintballer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Radio/radio-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Radio/radio.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Realty/realty-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Realty/realty.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/file-types.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/files-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/files.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/login.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/uploads.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/account_create.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/audiobit-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/download.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/edit_categories.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/file_category.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/file_upload.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/CityWay-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/CityWay-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/CityWay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/cityway-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_autogas.fla" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_autogas.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_cng.fla" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_cng.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_e85.fla" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_e85.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_hybrid.fla" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_hybrid.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/alt_fuel.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/gicc-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/main.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/macl/macl-form.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/macl/macl-home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/macl/macl-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/triphase/triphase-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/triphase/triphase.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/MyGlobal.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/Document.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/com/shinedraw/controls/IPhoneScroll.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/com/shinedraw/controls/IPhoneScrollX.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/xml/PieChart.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/xml/fact_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/klipsch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/napa.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/paintballer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/realty.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/styles.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Rockstar/rockstar-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Rockstar/rockstar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/bgimg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/black-out-80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/black-out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/parts/header.mst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/portfolio/rockstar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/Rockstar/rockstar-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/Rockstar/rockstar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/bgimg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/black-out-80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/black-out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/header.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/config/rockstar.json" afterPath="$PROJECT_DIR$/src/config/portfolio/rockstar.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/rockstar.html" afterPath="$PROJECT_DIR$/portfolio/rockstar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/config/index.json" afterPath="$PROJECT_DIR$/src/config/index.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/html/index.mustache" afterPath="$PROJECT_DIR$/src/html/index.mustache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/html/portfolio_item.mustache" afterPath="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio_item.mustache" pinned="false" current-in-tab="false">
+      <file leaf-file-name="portfolio_item.mustache" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="208">
+              <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -197,7 +114,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gicc.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gicc.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/config/portfolio/gicc.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -249,8 +166,8 @@
         <option value="$PROJECT_DIR$/src/config/portfolio/speedloader.json" />
         <option value="$PROJECT_DIR$/src/config/portfolio/triphase.json" />
         <option value="$PROJECT_DIR$/portfolio/gicc.html" />
-        <option value="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
         <option value="$PROJECT_DIR$/src/config/portfolio/gicc.json" />
+        <option value="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
       </list>
     </option>
   </component>
@@ -268,10 +185,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
-    <option name="y" value="24" />
-    <option name="width" value="1920" />
-    <option name="height" value="1012" />
+    <option name="x" value="-1440" />
+    <option name="y" value="153" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -358,24 +275,25 @@
       <updated>1510776969800</updated>
       <workItem from="1510776972463" duration="644000" />
       <workItem from="1510777633028" duration="1436000" />
-      <workItem from="1510779615149" duration="6056000" />
+      <workItem from="1510779615149" duration="6261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8136000" />
+    <option name="totallyTimeSpent" value="8341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="24" width="1920" height="1012" extended-state="6" />
+    <frame x="-1440" y="153" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24494143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26644737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32715377" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3836317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -736,18 +654,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/config/portfolio/gicc.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="1095" lean-forward="false" selection-start-line="2" selection-start-column="1091" selection-end-line="2" selection-end-column="1095" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding />
         </state>
       </provider>
