@@ -18,14 +18,14 @@
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
 </head>
-<body onload="loadUser()">
+<body>
 <!-- Start: container -->
 <div id="container">
     <h1>COLIN <span class="nobold"><span class="grey">\\</span>VON</span>GRIMMENSTEIN</h1>
     <hr/>
     <div class="portfolio">
         <h3>{{title}}</h3>
-        <p>{{description}}</p>
+        {{{description}}}
         <a class="back" href="../index.html"><< Back</a>
         {{#images}}
             <img src="{{.}}" alt="" width="960" height="1318"/>

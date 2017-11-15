@@ -2,8 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37e1ab6-d343-4c48-b445-e82f56f6cedc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Cityscape/Cityscape-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Cityscape/Cityscape-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Generic/Generic-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Generic/Generic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Klipsch/klipsch-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Klipsch/klipsch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Napa/napa-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Napa/napa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Paintballer/Paintballer-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Paintballer/Paintballer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Radio/radio-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Radio/radio.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Realty/realty-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Realty/realty.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/file-types.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/files-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/files.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Speedloader/uploads.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/account_create.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/audiobit-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/download.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/edit_categories.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/file_category.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/file_upload.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/audiobit/home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/CityWay-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/CityWay-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/CityWay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityway/cityway-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_autogas.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_autogas.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_cng.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_cng.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_e85.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_e85.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_hybrid.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/project_tech_hybrid.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/alt_fuel.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/gicc-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/main.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/macl/macl-form.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/macl/macl-home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/macl/macl-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/triphase/triphase-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/triphase/triphase.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/MyGlobal.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/Document.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/com/shinedraw/controls/IPhoneScroll.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/Scroll/com/shinedraw/controls/IPhoneScrollX.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/xml/PieChart.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gicc/xml/fact_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/klipsch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/napa.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/paintballer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/portfolio/realty.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/styles.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Rockstar/rockstar-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/Rockstar/rockstar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/bgimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/black-out-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/black-out.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/parts/header.mst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/portfolio/rockstar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/Rockstar/rockstar-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/Rockstar/rockstar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/bgimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/black-out-80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/black-out.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/header.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/config/rockstar.json" afterPath="$PROJECT_DIR$/src/config/portfolio/rockstar.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/rockstar.html" afterPath="$PROJECT_DIR$/portfolio/rockstar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/config/index.json" afterPath="$PROJECT_DIR$/src/config/index.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/html/index.mustache" afterPath="$PROJECT_DIR$/src/html/index.mustache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/html/portfolio_item.mustache" afterPath="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,98 +96,128 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6629055">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/package.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-                  <folding>
-                    <element signature="e#3227#3232#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="portfolio_item.mustache" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="64">
-                  <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="335">
-                  <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/config/index.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="rockstar.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/config/rockstar.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="9" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="index.mustache" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/html/index.mustache">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2215">
-                  <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="19" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="paintballer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/portfolio/paintballer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="radio.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/portfolio/radio.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="realty.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/portfolio/realty.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rockstar.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/portfolio/rockstar.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="speedloader.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/portfolio/speedloader.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="107" lean-forward="false" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triphase.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/portfolio/triphase.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="speedloader.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/speedloader.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-101">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1510786325721" expanded="true" signature="1252:2366" ph="..." />
+                <marker date="1510786325721" expanded="true" signature="1381:2359" ph="..." />
+                <marker date="1510786325721" expanded="true" signature="2398:2887" ph="..." />
+                <marker date="1510786325721" expanded="true" signature="2529:2873" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio_item.mustache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gicc.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/gicc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1510786325720" expanded="true" signature="1252:3222" ph="..." />
+                <marker date="1510786325720" expanded="true" signature="1381:3215" ph="..." />
+                <marker date="1510786325720" expanded="true" signature="3254:3743" ph="..." />
+                <marker date="1510786325720" expanded="true" signature="3385:3729" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gicc.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/config/portfolio/gicc.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1095" lean-forward="false" selection-start-line="2" selection-start-column="1091" selection-end-line="2" selection-end-column="1095" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>portfolio-</find>
+      <find>&quot;</find>
+      <find>.swf</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\&quot;</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,17 +225,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/html/index.html" />
         <option value="$PROJECT_DIR$/src/scss/app.scss" />
         <option value="$PROJECT_DIR$/src/html/parts/header.mst" />
-        <option value="$PROJECT_DIR$/src/html/index.mustache" />
         <option value="$PROJECT_DIR$/build/index.html" />
-        <option value="$PROJECT_DIR$/src/config/index.json" />
-        <option value="$PROJECT_DIR$/src/config/rockstar.json" />
-        <option value="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/html/index.mustache" />
+        <option value="$PROJECT_DIR$/src/config/rockstar.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/rockstar.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/realty.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/paintballer.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/klipsch.json" />
+        <option value="$PROJECT_DIR$/src/config/index.json" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/audiobit_xchange.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/cityscape.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/cityway.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/generic.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/macl.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/napa.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/radio.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/speedloader.json" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/triphase.json" />
+        <option value="$PROJECT_DIR$/portfolio/gicc.html" />
+        <option value="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
+        <option value="$PROJECT_DIR$/src/config/portfolio/gicc.json" />
       </list>
     </option>
   </component>
@@ -140,10 +268,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="119" />
-    <option name="y" value="177" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="x" value="-1" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="1012" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,7 +301,12 @@
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -190,9 +323,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/src/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/config/portfolio" />
       <recent name="$PROJECT_DIR$/build" />
     </key>
   </component>
@@ -223,18 +358,17 @@
       <updated>1510776969800</updated>
       <workItem from="1510776972463" duration="644000" />
       <workItem from="1510777633028" duration="1436000" />
-      <workItem from="1510779615149" duration="2754000" />
+      <workItem from="1510779615149" duration="6056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4834000" />
+    <option name="totallyTimeSpent" value="8136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1920" height="1012" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24494143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24494143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -339,9 +473,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="e#3227#3232#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -400,38 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/index.mustache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2215">
-          <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/index.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/rockstar.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/parts/header.mst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -444,9 +544,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#3227#3232#0" expanded="true" />
+            <element signature="e#3207#3212#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/index.mustache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="75" column="22" lean-forward="false" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -458,18 +606,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/audiobit_xchange.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/cityscape.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="2" column="86" lean-forward="true" selection-start-line="2" selection-start-column="86" selection-end-line="2" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/cityway.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/generic.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/klipsch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/macl.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/napa.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/paintballer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/radio.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/realty.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/rockstar.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/speedloader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510786325721" expanded="true" signature="1252:2366" ph="..." />
+            <marker date="1510786325721" expanded="true" signature="1381:2359" ph="..." />
+            <marker date="1510786325721" expanded="true" signature="2398:2887" ph="..." />
+            <marker date="1510786325721" expanded="true" signature="2529:2873" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/speedloader.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="107" lean-forward="false" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/gicc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510786325720" expanded="true" signature="1252:3222" ph="..." />
+            <marker date="1510786325720" expanded="true" signature="1381:3215" ph="..." />
+            <marker date="1510786325720" expanded="true" signature="3254:3743" ph="..." />
+            <marker date="1510786325720" expanded="true" signature="3385:3729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/triphase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/portfolio/gicc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1095" lean-forward="false" selection-start-line="2" selection-start-column="1091" selection-end-line="2" selection-end-column="1095" />
           <folding />
         </state>
       </provider>

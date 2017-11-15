@@ -9,8 +9,89 @@
     {
       "title": "Cox & Sons",
       "type": "Layout Design",
-      "thumbnail": "img/Rockstar/rockstar-thumb.jpg",
-      "slug": "cox_and_sons.html"
+      "thumbnail": "img/Realty/realty-thumb.jpg",
+      "slug": "portfolio/realty.html"
+    },
+    {
+      "title": "Proving Grounds",
+      "type": "Graphic Design",
+      "thumbnail": "img/Paintballer/Paintballer-thumb.jpg",
+      "slug": "portfolio/paintballer.html"
+    },
+    {
+      "title": "Klipsch",
+      "type": "Layout Design",
+      "thumbnail": "img/Klipsch/klipsch-thumb.jpg",
+      "slug": "portfolio/klipsch.html"
+    },
+    {
+      "title": "Napa Valley",
+      "type": "Layout Design",
+      "thumbnail": "img/Napa/napa-thumb.jpg",
+      "slug": "portfolio/napa.html"
+    },
+    {
+      "title": "Radio",
+      "type": "Layout Design",
+      "thumbnail": "img/Radio/radio-thumb.jpg",
+      "slug": "portfolio/radio.html"
+    },
+    {
+      "title": "Cityscape",
+      "type": "Graphic Design",
+      "thumbnail": "img/Cityscape/Cityscape-thumb.jpg",
+      "slug": "portfolio/cityscape.html"
+    },
+    {
+      "title": "Generic",
+      "type": "Graphic Design",
+      "thumbnail": "img/Generic/Generic-thumb.jpg",
+      "slug": "portfolio/generic.html"
+    }
+  ],
+
+  "development": [
+    {
+      "title": "Greater Indiana",
+      "thumbnail": "img/gicc/gicc-thumb.jpg",
+      "type": "Flash Kiosk Application",
+      "slug": "portfolio/gicc.html"
+    },
+    {
+      "title": "Speedloader",
+      "type": "PHP Development",
+      "thumbnail": "img/Speedloader/files-thumb.jpg",
+      "slug": "portfolio/speedloader.html"
+    },
+    {
+      "title": "Mid America Clinical Labs",
+      "type": "Wordpress Theme Development",
+      "thumbnail": "img/macl/macl-thumb.jpg",
+      "slug": "portfolio/macl.html"
+    },
+    {
+      "title": "CityWay",
+      "type": "Facebook Fan Page Development",
+      "thumbnail": "img/cityway/cityway-thumb.jpg",
+      "slug": "portfolio/cityway.html"
+    },
+    {
+      "title": "Audiobit Xchange",
+      "type": "PHP Development",
+      "thumbnail": "img/audiobit/audiobit-thumb.jpg",
+      "slug": "portfolio/audiobitxchange.html"
+    },
+    {
+      "title": "Radio",
+      "type": "Layout Design",
+      "thumbnail": "img/triphase/triphase-thumb.jpg",
+      "slug": "portfolio/radio.html"
+    },
+    {
+      "title": "Triphase Technology",
+      "type": "Wordpress Theme Development",
+      "thumbnail": "img/Generic/Generic-thumb.jpg",
+      "slug": "portfolio/generic.html"
     }
   ]
 }

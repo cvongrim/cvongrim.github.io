@@ -17,12 +17,11 @@
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
 </head>
-<body  onload="loadUser()">
+<body>
 <!-- Start: container -->
 <div id="container">
     <h1>COLIN <span class="nobold"><span class="grey">\\</span>VON</span>GRIMMENSTEIN</h1>
     <hr />
-<div id="target">Loading...</div>
 
     <img id="header" class="shadow" src="img/header.jpg" alt="" width="960" height="230" />
     <div class="two-column">
@@ -56,136 +55,26 @@
                     <a href="/{{slug}}" class="info">Read More</a>
                 </div>
             </div>
+            <div class="gutter"></div>
         {{/design}}
 
-
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/Paintballer/Paintballer-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Proving Grounds</h3>
-                <p>Graphic Design</p>
-                <a href="portfolio-paintballer.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="column">
-            <img class="shadow" src="images/Klipsch/klipsch-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Klipsch</h3>
-                <p>Layout Design</p>
-                <a href="portfolio-klipsch.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/Napa/napa-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Napa Valley</h3>
-                <p>Layout Design</p>
-                <a href="portfolio-napa.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/Radio/radio-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Radio</h3>
-                <p>Layout Design</p>
-                <a href="portfolio-radio.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="column">
-            <img class="shadow" src="images/Cityscape/Cityscape-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Cityscape</h3>
-                <p>Graphic Design</p>
-                <a href="portfolio-cityscape.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/Generic/Generic-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Generic</h3>
-                <p>Graphic Design</p>
-                <a href="portfolio-generic.php" class="info">Read More</a>
-            </div>
-        </div>
 
         <div class="clear"></div>
 
         <h2>DEVELOPMENT</h2>
 
-        <div class="column">
-            <img class="shadow" src="images/gicc/gicc-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Greater Indiana</h3>
-                <p>Flash Kiosk Application</p>
-                <a href="portfolio-gicc.php" class="info">Read More</a>
+        {{#development}}
+            <div class="column">
+                <img class="shadow" src="{{thumbnail}}" alt="" width="300" height="225" />
+                <div class="mask">
+                    <h3>{{title}}</h3>
+                    <p>{{type}}</p>
+                    <a href="/{{slug}}" class="info">Read More</a>
+                </div>
             </div>
-        </div>
+            <div class="gutter"></div>
+        {{/development}}
 
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/Speedloader/files-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Speedloader</h3>
-                <p>PHP Development</p>
-                <a href="portfolio-speedloader.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/macl/macl-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Mid America Clinical Labs</h3>
-                <p>Wordpress Theme Development</p>
-                <a href="portfolio-macl.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="column">
-            <img class="shadow" src="images/cityway/cityway-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>CityWay</h3>
-                <p>Facebook Fan Page Development</p>
-                <a href="portfolio-cityway.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/audiobit/audiobit-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Audiobit Xchange</h3>
-                <p>PHP Development</p>
-                <a href="portfolio-audiobitxchange.php" class="info">Read More</a>
-            </div>
-        </div>
-
-        <div class="gutter"></div>
-
-        <div class="column">
-            <img class="shadow" src="images/triphase/triphase-thumb.jpg" alt="" width="300" height="225" />
-            <div class="mask">
-                <h3>Triphase Technology</h3>
-                <p>Wordpress Theme Development</p>
-                <a href="portfolio-triphase.php" class="info">Read More</a>
-            </div>
-        </div>
 
     </div>
     <div class="clear"></div>
@@ -193,14 +82,6 @@
     <h1>COLIN <span class="nobold"><span class="grey">\\</span>VON</span>GRIMMENSTEIN</h1>
 </div><!-- End: container -->
 <script type="text/javascript">
-
-    function loadUser() {
-        $.get('parts/header.mst', function(template) {
-            var rendered = Mustache.render(template, {name: "Luke"});
-            $('#target').html(rendered);
-        });
-    }
-
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-21528753-1']);
     _gaq.push(['_trackPageview']);

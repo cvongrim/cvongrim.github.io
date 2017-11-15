@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pieChart>
+	<config>
+		<pie x="118" y="43" radius="130" />
+		<legends visible="false" x="480" y="100" width="100" square="10" textSize="12" textColor="0x5e7086" backColor="0xFFFFFF" backAlpha="1" borderColor="0x587b8c" borderThick="1" borderAlpha="1" legendBackColor="0xf2f2f2" />
+		<tooltip showName="false" showPercent="true" size="10" xmargin="2" ymargin="0" valueDecimals="0" percentDecimals="1" />
+		<tag distance="0.7" size="12" decimals="0" showPercent="true" />
+		<animation openTime="2" moveTime="0.5" synchronized="false" />
+	</config>
+	<texts>
+		<paragraph align="center" bold="true" color="0x000066" size="12" x="95" y="10" width="400" text="a" />
+		<paragraph align="center" bold="false" color="0x000066" size="10" x="95" y="30" width="400" text="a" />
+		<paragraph align="right" bold="false" color="0x000000" size="9" x="350" y="280" width="100" text="a" />
+		<paragraph align="left" bold="true" color="0x5e7086" size="12" x="10" y="105" width="100" text="a" />
+		<paragraph align="left" bold="false" color="0x5e7086" size="12" x="10" y="135" width="100" text="a" />
+	</texts>
+	<series>
+		<serie borderColor="0xADD47E" innerColor="0xADD47E" outerColor="0xADD47E" tooltipBackColor="0xea6e29" tooltipTextColor="0xFFFFFF" tagColor="0xADD47E" name="Propane" value="129631" />
+		<serie borderColor="0xFFF303" innerColor="0xFFF303" outerColor="0xFFF303" tooltipBackColor="0x7fae3a" tooltipTextColor="0xFFFFFF" tagColor="0xFFF303" name="Biodiesel" value="325102" />
+		<serie borderColor="0x415030" innerColor="0x415030" outerColor="0x415030" tooltipBackColor="0x7e5433" tooltipTextColor="0xFFFFFF" tagColor="0x415030" name="Compressed Natural Gas" value="225165" />
+		<serie borderColor="0x37BB79" innerColor="0x37BB79" outerColor="0x37BB79" tooltipBackColor="0xc94c2f" tooltipTextColor="0xFFFFFF" tagColor="0x37BB79" name="E85" value="71213" />
+		<serie borderColor="0x26528F" innerColor="0x26528F" outerColor="0x26528F" tooltipBackColor="0xf6ad0f" tooltipTextColor="0xFFFFFF" tagColor="0x26528F" name="Electric" value="4956" />
+
+	</series>
+</pieChart>

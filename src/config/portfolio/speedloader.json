@@ -1,0 +1,5 @@
+{
+  "title": "Speedloader",
+  "description": "<p>Speedloader is a content delivery system I created for Mosaic.  This system was created so clients could easily login and download media elements that Mosaic had created for them.  This required a way for Mosaic to manage their media files and which clients had access to them.</p><p>I was the sole developer on this project and developed it from the ground up.  This system was built with jQuery, MySQL and PHP.</p>",
+  "images": ["../img/Speedloader/login.jpg", "../img/Speedloader/files.jpg", "../img/Speedloader/file-types.jpg"]
+}

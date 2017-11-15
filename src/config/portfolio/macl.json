@@ -1,0 +1,5 @@
+{
+  "title": "Mid America Clinical Labs",
+  "description": "<p>This is a website that I was given the design and asked to develop a Wordpress Theme for.  This site also had a print campaign launched with it that the client wanted to measure the effectiveness of.  To measure it's effectiveness,  I created unique URL's that were placed on the print pieces.  Since these URL's were only placed on the print piece, we were able to reasonably believe the user reached that page because of it.  We then tracked how many visitors those URL's recieved.</p>",
+  "images": ["../img/macl/macl-home.jpg", "../img/macl/macl-form.jpg"]
+}

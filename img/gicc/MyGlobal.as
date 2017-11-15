@@ -1,0 +1,1 @@
+﻿package {public class MyGlobal {public static var CNGprice:int;public static var GASprice:int;public static var gallons:int;public static var label1:String = new String();public static var totallabel:String = new String();}}

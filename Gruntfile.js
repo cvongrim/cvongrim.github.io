@@ -17,19 +17,6 @@ module.exports = function(grunt) {
             }
         },
 
-        copy: {
-            img: {
-                files: [
-                    {
-                        expand: true,
-                        cwd: 'src',
-                        src: ['img/**'],
-                        dest: ''
-                    }
-                ]
-            },
-        },
-
         autoprefixer: {
             options: {
                 browsers: [
@@ -38,8 +25,8 @@ module.exports = function(grunt) {
                 map: true
             },
             your_target: {
-                src: ['build/css/app.css'],
-                dest: 'build/css/app.css'
+                src: ['css/app.css'],
+                dest: 'css/app.css'
             }
         },
 
@@ -57,7 +44,20 @@ module.exports = function(grunt) {
                     template: 'src/html/portfolio_item.mustache'
                 },
                 files: {
-                    'portfolio/rockstar.html': 'src/config/rockstar.json'
+                    'portfolio/rockstar.html': 'src/config/portfolio/rockstar.json',
+                    'portfolio/realty.html': 'src/config/portfolio/realty.json',
+                    'portfolio/paintballer.html': 'src/config/portfolio/paintballer.json',
+                    'portfolio/klipsch.html': 'src/config/portfolio/klipsch.json',
+                    'portfolio/napa.html': 'src/config/portfolio/napa.json',
+                    'portfolio/radio.html': 'src/config/portfolio/radio.json',
+                    'portfolio/cityscape.html': 'src/config/portfolio/cityscape.json',
+                    'portfolio/generic.html': 'src/config/portfolio/generic.json',
+                    'portfolio/gicc.html': 'src/config/portfolio/gicc.json',
+                    'portfolio/speedloader.html': 'src/config/portfolio/speedloader.json',
+                    'portfolio/macl.html': 'src/config/portfolio/macl.json',
+                    'portfolio/cityway.html': 'src/config/portfolio/cityway.json',
+                    'portfolio/audiobit_xchange.html': 'src/config/portfolio/audiobit_xchange.json',
+                    'portfolio/triphase.html': 'src/config/portfolio/triphase.json'
                 }
             }
         },
@@ -73,10 +73,6 @@ module.exports = function(grunt) {
                 files: ['src/html/**/*.mustache', 'src/config/**/*.json'],
                 tasks: ['mustache_render']
             },
-            img: {
-                files: ['src/img'],
-                tasts: ['copy']
-            },
             options: {
                 spawn: false,
                 livereload: true
@@ -85,12 +81,11 @@ module.exports = function(grunt) {
     });
 
     grunt.loadNpmTasks('grunt-sass');
-    grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-mustache-render');
     grunt.loadNpmTasks('grunt-autoprefixer');
 
-    grunt.registerTask('default', ['sass', 'copy', 'autoprefixer', 'mustache_render', 'watch']);
+    grunt.registerTask('default', ['sass', 'autoprefixer', 'mustache_render', 'watch']);
 
-    grunt.registerTask('build', ['sass', 'copy', 'autoprefixer']);
+    grunt.registerTask('build', ['sass', 'autoprefixer']);
 };
