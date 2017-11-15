@@ -1,0 +1,16 @@
+{
+  "design": [
+    {
+      "title": "Rockstar",
+      "thumbnail": "img/Rockstar/rockstar-thumb.jpg",
+      "type": "Layout Design",
+      "slug": "portfolio/rockstar.html"
+    },
+    {
+      "title": "Cox & Sons",
+      "type": "Layout Design",
+      "thumbnail": "img/Rockstar/rockstar-thumb.jpg",
+      "slug": "cox_and_sons.html"
+    }
+  ]
+}

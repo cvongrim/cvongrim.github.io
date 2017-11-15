@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="generator" content="The Web Design/Development Portfolio for Colin von Grimmenstein"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+    <title>Colin von Grimmenstein</title>
+    <meta name="description" content="The Web Design/Development Portfolio for Colin von Grimmenstein"/>
+    <meta name="keywords"
+          content="Web, Site, Design, Development, Website, Code, HTML, PHP, MySQL, Jquery, Flash, Photoshop, Mobile, Media, Actionscript, Designer"/>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+
+
+    <link rel="stylesheet" type="text/css" href="../css/styles.css" media="screen"/>
+
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Syncopate:400,700|Basic' rel='stylesheet' type='text/css'>
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+</head>
+<body onload="loadUser()">
+<!-- Start: container -->
+<div id="container">
+    <h1>COLIN <span class="nobold"><span class="grey">\\</span>VON</span>GRIMMENSTEIN</h1>
+    <hr/>
+    <div class="portfolio">
+        <h3>{{title}}</h3>
+        <p>{{description}}</p>
+        <a class="back" href="../index.html"><< Back</a>
+        {{#images}}
+            <img src="{{.}}" alt="" width="960" height="1318"/>
+            <br/><br/>
+        {{/images}}
+
+        <a class="back" href="index.php"><< Back</a>
+        <br/><br/>
+    </div>
+</div>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-21528753-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+</body>
+</html>
