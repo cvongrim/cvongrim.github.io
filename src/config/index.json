@@ -82,16 +82,10 @@
       "slug": "portfolio/audiobitxchange.html"
     },
     {
-      "title": "Radio",
-      "type": "Layout Design",
-      "thumbnail": "img/triphase/triphase-thumb.jpg",
-      "slug": "portfolio/radio.html"
-    },
-    {
       "title": "Triphase Technology",
       "type": "Wordpress Theme Development",
-      "thumbnail": "img/Generic/Generic-thumb.jpg",
-      "slug": "portfolio/generic.html"
+      "thumbnail": "img/triphase/triphase-thumb.jpg",
+      "slug": "portfolio/triphase.html"
     }
   ]
 }

@@ -3,11 +3,23 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
 
+        concat: {
+            plugins: {
+                src: ['src/js/lib/*.js', 'node_modules/foundation-sites/dist/js/foundation.min.js'],
+                dest: 'js/libraries.js'
+            },
+            app: {
+                src: ['src/js/*.js'],
+                dest: 'js/app.js'
+            }
+        },
+
         sass: {
             options: {
                 sourceMap: true,
                 omitSourceMapUrl: false,
                 outputStyle: "compressed",
+                includePaths: ['node_modules/foundation-sites/scss']
             },
             dist: {
                 sourceMap: true,
@@ -69,8 +81,14 @@ module.exports = function(grunt) {
                 ],
                 tasks: ['sass', 'autoprefixer']
             },
+            javascript: {
+                files: [
+                    'src/js/**/*.js'
+                ],
+                tasks: ['concat']
+            },
             html: {
-                files: ['src/html/**/*.mustache', 'src/config/**/*.json'],
+                files: ['src/**/*.mustache', 'src/config/**/*.json'],
                 tasks: ['mustache_render']
             },
             options: {
@@ -84,8 +102,9 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-mustache-render');
     grunt.loadNpmTasks('grunt-autoprefixer');
+    grunt.loadNpmTasks('grunt-contrib-concat');
 
-    grunt.registerTask('default', ['sass', 'autoprefixer', 'mustache_render', 'watch']);
+    grunt.registerTask('default', ['concat', 'sass', 'autoprefixer', 'mustache_render', 'watch']);
 
-    grunt.registerTask('build', ['sass', 'autoprefixer']);
+    grunt.registerTask('build', ['concat', 'sass', 'autoprefixer']);
 };

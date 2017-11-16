@@ -1,0 +1,1 @@
+jQuery(".fittext").fitText(1.9, {  maxFontSize: '50px' });
