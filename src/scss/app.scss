@@ -73,9 +73,9 @@ body {
 
 .column {
   background: $white url(../img/bgimg.jpg) no-repeat center center;
-  box-shadow: 0px 0px 9px 0px #000000;
+  box-shadow: 0px 0px 9px 0px #a2a1a1;
   cursor: default;
-  outline: 1px solid #acacac;
+  outline: 1px solid $white;
   overflow: hidden;
   position: relative;
   text-align: center;
@@ -84,14 +84,14 @@ body {
   h3 {
     background: url(../img/black-out-80.png);
     color: $white;
-    display: none;
+    opacity: 0;
     font-size: 17px;
     margin: 20px 0 0 0;
     padding: 10px;
     position: relative;
     text-align: center;
     text-transform: uppercase;
-    transform: translateY(-100px);
+    transform: translateY(-150px);
     transition: all 0.2s ease-in-out;
   }
 
@@ -104,24 +104,26 @@ body {
   }
 
   p {
+    opacity: 0;
     color: $white;
-    display: none;
     font-family: Georgia, serif;
     font-size: 12px;
     font-style: italic;
     padding: 10px 20px 20px;
     position: relative;
     text-align: center;
-    transform: translateX(300px) rotate(90deg);
     transition: all 0.2s ease-in-out;
   }
 
+  a {
+    opacity: 0;
+  }
   .mask {
     background: url(../img/black-out.png);
     filter: alpha(opacity=0);
     -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
-    transform: translate(460px, -100px) rotate(180deg);
+    transform: translate(300px, -150px) rotate(180deg);
     transition: all 0.2s 0.4s ease-in-out;
   }
 
@@ -136,22 +138,21 @@ body {
   }
 
   &:hover {
+    h3,
+    p,
+    a {
+
+      opacity: 1;
+    }
     h3 {
-      display: block;
       transform: translateY(0px);
-      transition-delay: 0.5s;
+      transition-delay: 0.1s;
     }
 
     p {
-      display: block;
-      transform: translateX(0px) rotate(0deg);
-      transition-delay: 0.4s;
-    }
-
-    a.info {
-      transform: translateY(0px);
       transition-delay: 0.3s;
     }
+
 
     .mask {
       filter: alpha(opacity=100);
@@ -169,27 +170,18 @@ body {
     padding: 7px 14px;
     text-decoration: none;
     text-transform: uppercase;
-    transform: translateY(-225px);
     transition: all 0.2s ease-in-out;
-    visible: hidden;
-  }
 
-  a.info:hover {
-    background: #c6c6c6;
-    box-shadow: 0 0 5px #000;
-    display: inline-block;
+    &:hover {
+      background: #c6c6c6;
+    }
   }
-
 }
 
 
 a.back {
   float: left;
   margin-bottom: 25px;
-}
-
-h3.quote {
-
 }
 
 .quotemark {
@@ -212,17 +204,9 @@ h3.quote {
 }
 
 /* Misc */
-.clear {
-  clear: both;
-}
 
 .nobold {
   font-weight: 100;
-}
-
-.shadow {
-  box-shadow: 0px 0px 9px 0px #000000;
-  outline: 1px solid #acacac;
 }
 
 /* Typography */
@@ -239,17 +223,10 @@ a:hover {
 h1, h2, h3 {
   font-weight: 700;
   font-family: 'Syncopate', sans-serif;
-  -webkit-transform: rotate(-0.0000000001deg)
-}
-
-h1 {
-  font-size: 50px;
-
 }
 
 h2 {
   border-bottom: 1px solid #1d1d1d;
-  font-size: 50px;
   margin: 20px 0 40px;
   padding: 25px 0;
 }
