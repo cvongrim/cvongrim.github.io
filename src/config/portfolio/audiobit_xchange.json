@@ -1,6 +1,6 @@
 {
   "title": "AudioBitXchange",
-  "description": "<p>AudioBitXChange needed a system that their clients could log into and be able to easily search, find and download a zip file of multiple audio files.  They also need to be able to easily upload and categorize a large file base of over 5000+ files.  Lastly they  wanted a system in place for trial users that would allow them to download upto 25 files.</p><p> <a href=\"http://www.audiobitxchange.com\" target=\"_blank\">Live Site</a></p>",
+  "description": "<p>AudioBitXChange needed a system that their clients could log into and be able to easily search, find and download a zip file of multiple audio files.  They also need to be able to easily upload and categorize a large file base of over 5000+ files.  Lastly they  wanted a system in place for trial users that would allow them to download upto 25 files.</p>",
   "images": [
     "../img/audiobit/home.jpg",
     "../img/audiobit/account_create.jpg",
