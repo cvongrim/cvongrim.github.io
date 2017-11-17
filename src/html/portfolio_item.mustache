@@ -33,17 +33,32 @@
 
     <div class="portfolio grid-container">
         <div class="grid-x">
-            <div class="cell small-12 header-container">
+            <div class="cell small-12">
                 <h3>{{title}}</h3>
                 {{{description}}}
                 <a class="back" href="../index.html"><< Back</a>
-                {{#images}}
-                    <img src="{{.}}"/>
-                    <br/><br/>
-                {{/images}}
+            </div>
+        </div>
 
-                <a class="back" href="index.php"><< Back</a>
-                <br/><br/>
+        <div class="grid-x">
+            <div id="button-slider-previous" class="cell small-1">
+                <div class="button-slider "><</div>
+            </div>
+            <div class="cell auto">
+                <div class="slider">
+                    {{#images}}
+                        <div><img src="{{.}}"/></div>
+                    {{/images}}
+                </div>
+            </div>
+            <div id="button-slider-next" class="cell small-1 text-right">
+                <div class="button-slider">></div>
+            </div>
+        </div>
+
+        <div class="grid-x">
+            <div class="cell small-12 footer-portfolio">
+                <a class="back" href="../index.html"><< Back</a>
             </div>
         </div>
     </div>

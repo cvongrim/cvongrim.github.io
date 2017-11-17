@@ -5,7 +5,11 @@ module.exports = function(grunt) {
 
         concat: {
             plugins: {
-                src: ['src/js/lib/*.js', 'node_modules/foundation-sites/dist/js/foundation.min.js'],
+                src: [
+                    'src/js/lib/*.js',
+                    'node_modules/foundation-sites/dist/js/foundation.min.js',
+                    'node_modules/slick-carousel/slick/slick.min.js'
+                ],
                 dest: 'js/libraries.js'
             },
             app: {
@@ -19,7 +23,7 @@ module.exports = function(grunt) {
                 sourceMap: true,
                 omitSourceMapUrl: false,
                 outputStyle: "compressed",
-                includePaths: ['node_modules/foundation-sites/scss']
+                includePaths: ['node_modules/foundation-sites/scss','node_modules/slick-carousel/slick']
             },
             dist: {
                 sourceMap: true,
