@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37e1ab6-d343-4c48-b445-e82f56f6cedc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/audiobit_xchange.html" afterPath="$PROJECT_DIR$/portfolio/audiobit_xchange.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/cityscape.html" afterPath="$PROJECT_DIR$/portfolio/cityscape.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/cityway.html" afterPath="$PROJECT_DIR$/portfolio/cityway.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/generic.html" afterPath="$PROJECT_DIR$/portfolio/generic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/gicc.html" afterPath="$PROJECT_DIR$/portfolio/gicc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/klipsch.html" afterPath="$PROJECT_DIR$/portfolio/klipsch.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/macl.html" afterPath="$PROJECT_DIR$/portfolio/macl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/napa.html" afterPath="$PROJECT_DIR$/portfolio/napa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/paintballer.html" afterPath="$PROJECT_DIR$/portfolio/paintballer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/radio.html" afterPath="$PROJECT_DIR$/portfolio/radio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/realty.html" afterPath="$PROJECT_DIR$/portfolio/realty.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/rockstar.html" afterPath="$PROJECT_DIR$/portfolio/rockstar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/speedloader.html" afterPath="$PROJECT_DIR$/portfolio/speedloader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/triphase.html" afterPath="$PROJECT_DIR$/portfolio/triphase.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/html/index.mustache" afterPath="$PROJECT_DIR$/src/html/index.mustache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/html/portfolio_item.mustache" afterPath="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +32,7 @@
       <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
+            <state relative-caret-position="-11">
               <caret line="72" column="17" lean-forward="false" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
               <folding />
             </state>
@@ -66,8 +82,18 @@
       <file leaf-file-name="index.mustache" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/index.mustache">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="79">
+              <caret line="106" column="9" lean-forward="false" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio_item.mustache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,7 +140,6 @@
         <option value="$PROJECT_DIR$/src/config/portfolio/triphase.json" />
         <option value="$PROJECT_DIR$/portfolio/gicc.html" />
         <option value="$PROJECT_DIR$/src/config/portfolio/gicc.json" />
-        <option value="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
         <option value="$PROJECT_DIR$/src/config/index.json" />
         <option value="$PROJECT_DIR$/src/js/jquery.fittext.js" />
         <option value="$PROJECT_DIR$/package.json" />
@@ -124,6 +149,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/scss/_settings.scss" />
         <option value="$PROJECT_DIR$/src/scss/app.scss" />
+        <option value="$PROJECT_DIR$/src/html/portfolio_item.mustache" />
         <option value="$PROJECT_DIR$/src/html/index.mustache" />
       </list>
     </option>
@@ -231,12 +257,12 @@
       <workItem from="1510777633028" duration="1436000" />
       <workItem from="1510779615149" duration="10493000" />
       <workItem from="1510849630612" duration="2137000" />
-      <workItem from="1510876578619" duration="2659000" />
+      <workItem from="1510876578619" duration="3449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17369000" />
+    <option name="totallyTimeSpent" value="18159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -537,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/foundation-sites/scss/foundation.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1901">
@@ -615,14 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="72" column="17" lean-forward="false" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -647,10 +658,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/portfolio_item.mustache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="72" column="17" lean-forward="false" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/index.mustache">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="79">
+          <caret line="106" column="9" lean-forward="false" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
           <folding />
         </state>
       </provider>
