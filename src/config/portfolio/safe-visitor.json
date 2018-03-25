@@ -1,0 +1,10 @@
+{
+  "title": "SaveVisitor",
+  "description": "<p>SafeVisitor is a cross platform app built with React Native. This app is apart of a visitor management platform to be used by volunteer/visitors to simplify the process of checking into a location. The user of this app will be able to activate and use passes their passes this app. An attendant of a specific location will be notified immediately when a volunteer/visitor is at their facility through the use of Geofencing. This allows the attendant to know in advance they are on the premise and allows them to check them in with out a volunteer/visitor needing to pull out a paper badge.</p>",
+  "images": [
+    "../img/safe-visitor/pass-list.jpg",
+    "../img/safe-visitor/pass.jpg",
+    "../img/safe-visitor/add-pass.jpg",
+    "../img/safe-visitor/about.jpg"
+  ]
+}

@@ -52,10 +52,46 @@
 
   "development": [
     {
-      "title": "Greater Indiana",
-      "thumbnail": "img/gicc/gicc-thumb.jpg",
-      "type": "Flash Kiosk Application",
-      "slug": "portfolio/gicc.html"
+      "title": "Oobeo",
+      "thumbnail": "img/oobeo/oobeo-thumb.jpg",
+      "type": "React Native App",
+      "slug": "portfolio/oobeo.html"
+    },
+    {
+      "title": "AIM App",
+      "thumbnail": "img/aim/aim-thumb.jpg",
+      "type": "React Native App",
+      "slug": "portfolio/aim.html"
+    },
+    {
+      "title": "SafeVisitor App",
+      "thumbnail": "img/safe-visitor/thumb.jpg",
+      "type": "React Native App",
+      "slug": "portfolio/safe-visitor.html"
+    },
+    {
+      "title": "IPL Christmas Game",
+      "thumbnail": "img/ipl/thumb.jpg",
+      "type": "JavaScript Game",
+      "slug": "portfolio/ipl.html"
+    },
+    {
+      "title": "Indy Connect",
+      "thumbnail": "img/indy-connect/indy-connect-thumb.jpg",
+      "type": "Wordpress Theme Development",
+      "slug": "portfolio/indy-connect.html"
+    },
+    {
+      "title": "Prairie Godmothers ",
+      "thumbnail": "img/prairie-godmothers/thumb.jpg",
+      "type": "Wordpress Theme Development",
+      "slug": "portfolio/prairie-godmothers.html"
+    },
+    {
+      "title": "Junket Productions",
+      "thumbnail": "img/junket/junket-thumb.jpg",
+      "type": "Wordpress Theme Development",
+      "slug": "portfolio/junket.html"
     },
     {
       "title": "Speedloader",
@@ -86,6 +122,12 @@
       "type": "Wordpress Theme Development",
       "thumbnail": "img/triphase/triphase-thumb.jpg",
       "slug": "portfolio/triphase.html"
+    },
+    {
+      "title": "Greater Indiana",
+      "thumbnail": "img/gicc/gicc-thumb.jpg",
+      "type": "Flash Kiosk Application",
+      "slug": "portfolio/gicc.html"
     }
   ]
 }

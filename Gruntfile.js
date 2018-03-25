@@ -1,20 +1,14 @@
-module.exports = function(grunt) {
+module.exports = function (grunt) {
     "use strict";
 
     grunt.initConfig({
 
         concat: {
             plugins: {
-                src: [
-                    'src/js/lib/*.js',
-                    'node_modules/foundation-sites/dist/js/foundation.min.js',
-                    'node_modules/slick-carousel/slick/slick.min.js'
-                ],
+                src: ['src/js/lib/*.js', 'node_modules/foundation-sites/dist/js/foundation.min.js', 'node_modules/slick-carousel/slick/slick.min.js'],
                 dest: 'js/libraries.js'
-            },
-            app: {
-                src: ['src/js/*.js'],
-                dest: 'js/app.js'
+            }, app: {
+                src: ['src/js/*.js'], dest: 'js/app.js'
             }
         },
 
@@ -23,11 +17,9 @@ module.exports = function(grunt) {
                 sourceMap: true,
                 omitSourceMapUrl: false,
                 outputStyle: "compressed",
-                includePaths: ['node_modules/foundation-sites/scss','node_modules/slick-carousel/slick']
-            },
-            dist: {
-                sourceMap: true,
-                files: {
+                includePaths: ['node_modules/foundation-sites/scss', 'node_modules/slick-carousel/slick']
+            }, dist: {
+                sourceMap: true, files: {
                     'css/styles.css': 'src/scss/app.scss'
                 }
             }
@@ -35,14 +27,9 @@ module.exports = function(grunt) {
 
         autoprefixer: {
             options: {
-                browsers: [
-                    'last 2 versions', 'ie >= 9', 'and_chr >= 2.3'
-                ],
-                map: true
-            },
-            your_target: {
-                src: ['css/app.css'],
-                dest: 'css/app.css'
+                browsers: ['last 2 versions', 'ie >= 9', 'and_chr >= 2.3'], map: true
+            }, your_target: {
+                src: ['css/app.css'], dest: 'css/app.css'
             }
         },
 
@@ -50,16 +37,13 @@ module.exports = function(grunt) {
             index: {
                 options: {
                     template: 'src/html/index.mustache'
-                },
-                files: {
+                }, files: {
                     'index.html': 'src/config/index.json'
                 }
-            },
-            portfolio: {
+            }, portfolio: {
                 options: {
                     template: 'src/html/portfolio_item.mustache'
-                },
-                files: {
+                }, files: {
                     'portfolio/rockstar.html': 'src/config/portfolio/rockstar.json',
                     'portfolio/realty.html': 'src/config/portfolio/realty.json',
                     'portfolio/paintballer.html': 'src/config/portfolio/paintballer.json',
@@ -73,31 +57,27 @@ module.exports = function(grunt) {
                     'portfolio/macl.html': 'src/config/portfolio/macl.json',
                     'portfolio/cityway.html': 'src/config/portfolio/cityway.json',
                     'portfolio/audiobit_xchange.html': 'src/config/portfolio/audiobit_xchange.json',
-                    'portfolio/triphase.html': 'src/config/portfolio/triphase.json'
+                    'portfolio/triphase.html': 'src/config/portfolio/triphase.json',
+                    'portfolio/safe-visitor.html': 'src/config/portfolio/safe-visitor.json',
+                    'portfolio/aim.html': 'src/config/portfolio/aim.json',
+                    'portfolio/indy-connect.html': 'src/config/portfolio/indy-connect.json',
+                    'portfolio/oobeo.html': 'src/config/portfolio/oobeo.json',
+                    'portfolio/junket.html': 'src/config/portfolio/junket.json',
+                    'portfolio/prairie-godmothers.html': 'src/config/portfolio/prairie-godmothers.json',
+                    'portfolio/ipl.html': 'src/config/portfolio/ipl.json'
                 }
             }
         },
 
         watch: {
             styles: {
-                files: [
-                    'src/scss/**/*.scss', 'src/scss/**/*.sass'
-                ],
-                tasks: ['sass', 'autoprefixer']
-            },
-            javascript: {
-                files: [
-                    'src/js/**/*.js'
-                ],
-                tasks: ['concat']
-            },
-            html: {
-                files: ['src/**/*.mustache', 'src/config/**/*.json'],
-                tasks: ['mustache_render']
-            },
-            options: {
-                spawn: false,
-                livereload: true
+                files: ['src/scss/**/*.scss', 'src/scss/**/*.sass'], tasks: ['sass', 'autoprefixer']
+            }, javascript: {
+                files: ['src/js/**/*.js'], tasks: ['concat']
+            }, html: {
+                files: ['src/**/*.mustache', 'src/config/**/*.json'], tasks: ['mustache_render']
+            }, options: {
+                spawn: false, livereload: true
             }
         }
     });

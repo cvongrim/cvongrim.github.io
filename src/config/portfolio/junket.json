@@ -1,0 +1,12 @@
+{
+  "title": "Junket Productions",
+  "description": "<p>A custom WordPress theme that was developed for Junket Productions.</p>",
+  "images": [
+    "../img/junket/home.jpg",
+    "../img/junket/productions.jpg",
+    "../img/junket/productions-select.jpg",
+    "../img/junket/services.jpg",
+    "../img/junket/history.jpg",
+    "../img/junket/contact.jpg"
+  ]
+}

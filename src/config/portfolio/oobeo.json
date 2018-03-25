@@ -1,0 +1,12 @@
+{
+  "title": "Oobeo",
+  "description": "<p>A cross platform app built with React Native with a custom backend and API built with Django and Python. Oobeo is a product created to make the process of manging valet stands easier.</p>",
+  "images": [
+    "../img/oobeo/login.jpg",
+    "../img/oobeo/location.jpg",
+    "../img/oobeo/receive.jpg",
+    "../img/oobeo/carlist.jpg",
+    "../img/oobeo/edit.jpg",
+    "../img/oobeo/push-notification.jpg"
+  ]
+}

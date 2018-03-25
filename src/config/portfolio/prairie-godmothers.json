@@ -1,0 +1,13 @@
+{
+  "title": "Prairie Godmothers",
+  "description": "<p>A custom WordPress theme and e-commerce solution that was developed for Prairie Godmothers.</p>",
+  "images": [
+    "../img/prairie-godmothers/home.jpg",
+    "../img/prairie-godmothers/gardening.jpg",
+    "../img/prairie-godmothers/gardening-single.jpg",
+    "../img/prairie-godmothers/services.jpg",
+    "../img/prairie-godmothers/store.jpg",
+    "../img/prairie-godmothers/store-items.jpg",
+    "../img/prairie-godmothers/about.jpg"
+  ]
+}

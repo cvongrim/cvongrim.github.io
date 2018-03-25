@@ -1,0 +1,10 @@
+{
+  "title": "IPL Christmas Game",
+  "description": "<p>A JavaScript game using the Phazer game framework. <a href='http://www.iplpower.com/HolidayCard14/' target='_blank'>Play Game</a></p>",
+  "images": [
+    "../img/ipl/start.jpg",
+    "../img/ipl/play-1.jpg",
+    "../img/ipl/play-2.jpg",
+    "../img/ipl/finish.jpg"
+  ]
+}

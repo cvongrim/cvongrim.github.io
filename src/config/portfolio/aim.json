@@ -1,0 +1,10 @@
+{
+  "title": "AIM",
+  "description": "<p>A cross platform app built with React Native. This app gives users an easy to use interface to find upcoming events for Aim Indiana and learn more about them. Users can choose to subscribe to events so they can be notified in the future with new information about the event.</p>",
+  "images": [
+    "../img/aim/landing.jpg",
+    "../img/aim/single-event.jpg",
+    "../img/aim/event.jpg",
+    "../img/aim/my-schedule.jpg"
+  ]
+}

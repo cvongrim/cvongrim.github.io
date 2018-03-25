@@ -1,0 +1,12 @@
+{
+  "title": "Indy Connect",
+  "description": "<p>A custom WordPress theme that was developed for Indy Connect.</p>",
+  "images": [
+    "../img/indy-connect/home.jpg",
+    "../img/indy-connect/about.jpg",
+    "../img/indy-connect/about-indy-connect.jpg",
+    "../img/indy-connect/news.jpg",
+    "../img/indy-connect/news-single.jpg",
+    "../img/indy-connect/contact.jpg"
+  ]
+}
