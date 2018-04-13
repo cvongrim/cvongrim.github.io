@@ -70,6 +70,12 @@
       "slug": "portfolio/safe-visitor.html"
     },
     {
+      "title": "Simon Said",
+      "thumbnail": "img/simon-said/thumb.jpg",
+      "type": "Wordpress Theme Development",
+      "slug": "portfolio/simon-said.html"
+    },
+    {
       "title": "IPL Christmas Game",
       "thumbnail": "img/ipl/thumb.jpg",
       "type": "JavaScript Game",

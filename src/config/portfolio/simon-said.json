@@ -1,0 +1,9 @@
+{
+  "title": "Simon Said",
+  "description": "<p>A custom WordPress theme that was developed for Simon Property Group.</p>",
+  "images": [
+    "../img/simon-said/home.jpg",
+    "../img/simon-said/list.jpg",
+    "../img/simon-said/single.jpg"
+  ]
+}
