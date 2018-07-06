@@ -1,0 +1,10 @@
+{
+  "title": "LTAP Direct",
+  "description": "<p>A cross platform app built with React Native with a custom backend and API built with Django and Python. This app allows users to stream educational videos and audio files on their mobile device. User's can also download those files locally to watch/listen to a later time.</p>",
+  "images": [
+    "../img/ltap/login.jpg",
+    "../img/ltap/list.jpg",
+    "../img/ltap/single.jpg",
+    "../img/ltap/downloads.jpg"
+  ]
+}

@@ -52,6 +52,12 @@
 
   "development": [
     {
+      "title": "LTAP Direct",
+      "thumbnail": "img/ltap/thumb.jpg",
+      "type": "React Native App",
+      "slug": "portfolio/ltap.html"
+    },
+    {
       "title": "Oobeo",
       "thumbnail": "img/oobeo/oobeo-thumb.jpg",
       "type": "React Native App",

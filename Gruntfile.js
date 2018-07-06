@@ -65,7 +65,8 @@ module.exports = function (grunt) {
                     'portfolio/safe-visitor.html': 'src/config/portfolio/safe-visitor.json',
                     'portfolio/simon-said.html': 'src/config/portfolio/simon-said.json',
                     'portfolio/speedloader.html': 'src/config/portfolio/speedloader.json',
-                    'portfolio/triphase.html': 'src/config/portfolio/triphase.json'
+                    'portfolio/triphase.html': 'src/config/portfolio/triphase.json',
+                    'portfolio/ltap.html': 'src/config/portfolio/ltap.json'
                 }
             }
         },
